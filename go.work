@@ -1,6 +1,10 @@
 go 1.21.0
 
 use (
+	./HTML/basicFeatures
+	./HTML/partyInvites
+	./concurrency
 	./intro
 	./map
+	./operator
 )
